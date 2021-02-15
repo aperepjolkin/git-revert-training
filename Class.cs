@@ -17,10 +17,14 @@ namespace Revert
             test++;
         }
     }
-   }
 
-   public void NextAnother {
-       
-   }
+    public void NextAnother {
+      
+       var condition = true;
 
+       if (condition != true){
+
+       }
+    }
+   }
 }
